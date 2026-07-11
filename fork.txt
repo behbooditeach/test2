@@ -1,0 +1,5 @@
+How to contribute
+1.fork the repository
+2.create a new abranch
+3.make your change
+4.submit a pull request 
